@@ -10,7 +10,8 @@ website:
         text: Home
       - text: "CV"
         href: media/AndrewMillerCV_full.pdf
-
+      - text: "Research"
+        href: research.qmd
 format:
   html:
     theme: cosmo

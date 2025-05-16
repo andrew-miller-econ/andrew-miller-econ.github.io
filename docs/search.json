@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Andrew Miller",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "I am an applied microeconomist looking to apply my quantitative skills to solve real-world issues. I have a PhD in applied economics, and my research so far has focused on optimal management of natural resources. However, I am excited to see how I can use data to answer your pressing questions, regardless of domain. I am experienced in modeling complex systems, establishing causality with through applied econometrics, and obtaining and cleaning data to answer important questions."
+    "text": "The value of forests in reducing malaria mortality in India"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1 + 1\n\n[1] 3"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Andrew Miller",
+    "section": "",
+    "text": "I am an applied microeconomist looking to apply my quantitative skills to solve real-world issues. I have a PhD in applied economics, and my research to this point has focused on optimal management of natural resources. I am currently seeking my next role, and I am excited to see how I can use data to answer pressing questions in either academic research or in an industry role. I am experienced in modeling complex systems, establishing causality with through applied econometrics, and obtaining and cleaning data to answer important questions."
   }
 ]
