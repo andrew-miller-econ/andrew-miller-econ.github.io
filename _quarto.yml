@@ -10,7 +10,7 @@ website:
         text: Home
       - about.qmd
       - text: "CV"
-      - href: media/AndrewMillerCV_full.pdf
+        href: Media/AndrewMillerCV_full.pdf
 
 format:
   html:
