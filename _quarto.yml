@@ -8,9 +8,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-        <!--
-      #- about.qmd
-      -->
       - text: "CV"
         href: media/AndrewMillerCV_full.pdf
 
