@@ -1,0 +1,15 @@
+{
+  "hash": "ee36b9a7e5770074f84a478c8a46ea70",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Andrew Miller\"\nimage: media/ESUZY3je.jpg\ntoc: false\nabout: \n  template: jolla\n  image-shape: round\n  image-width: 17em\n  links:\n    - text: LinkedIn\n      href: www.linkedin.com/in/andrew-miller-4b9b7763\n    - text: GitHub\n      href: https://github.com/andrew-miller-econ\n    - text: Email\n      href: mailto:a.drewmiller@gmail.com\n---\n\n\n\n\nI am an applied microeconomist looking to apply my quantitative skills to solve real-world issues. I have a PhD in applied economics, and am excited to see how I can use data to answer your pressing questions, regardless of domain. I am experienced in modeling complex systems, establishing causality with through applied econometrics, and obtaining and cleaning data to answer important questions.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n#1 + 1\n```\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
