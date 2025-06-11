@@ -15,7 +15,7 @@ about:
       href: mailto:a.drewmiller@gmail.com
 ---
 
-I am an applied microeconomist looking to apply my quantitative skills to solve real-world issues. I have a PhD in applied economics, and my research to this point has focused on optimal management of natural resources. I am currently seeking my next role, and I am excited to see how I can use data to answer pressing questions in either academic research or in an industry role. I am experienced in modeling complex systems, establishing causality with through applied econometrics, and obtaining and cleaning data to answer important questions.
+I am an applied microeconomist looking to apply my quantitative skills to solve real-world issues. I have a PhD in applied economics, and my research to this point has focused on optimal management of natural resources. I am currently seeking my next role, and I am excited to see how I can use data to answer pressing questions in either academic research or in an industry role. I am experienced in modeling complex systems, establishing causality through applied econometrics, and obtaining and cleaning data to answer important questions.
 
 ### Contact information:
 
